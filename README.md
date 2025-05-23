@@ -4,8 +4,8 @@ Frontend & Backend Developer Adayıyım
 HTML • CSS • JavaScript • React • Node.js • PostgreSQL • Python
 
 Projelerim
- Geleceğe Not
- ToDo App
+ Geleceğe Not ,
+ ToDo App ,
  Portföy Web Sitesi
 
 Bana Ulaş:

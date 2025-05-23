@@ -3,7 +3,7 @@ Matematik 3. sınıf öğrencisiyim
 Frontend & Backend Developer Adayıyım  
 HTML • CSS • JavaScript • React • Node.js • PostgreSQL • Python
 
-Projelerim
+Projelerim:
  Geleceğe Not ,
  ToDo App ,
  Portföy Web Sitesi
